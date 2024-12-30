@@ -1,0 +1,482 @@
+[
+     {
+      "user_id": 2000012,
+      "parent_id": 2000011,
+      "level": 1,
+      "email": "gongbu101@gmail.com",
+      "phone": "01022709157",
+      "meta_uid": 0,
+      "created_at": "2024-10-02 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000013,
+      "parent_id": 2000012,
+      "level": 2,
+      "email": "nhp3580@gmail.com",
+      "phone": "01021803580",
+      "meta_uid": 0,
+      "created_at": "2024-10-02 00:00:00",
+      "part_usdt": 2500
+     },
+     {
+      "user_id": 2000014,
+      "parent_id": 2000013,
+      "level": 3,
+      "email": "jeongja56013@gmail.com",
+      "phone": "01036103000",
+      "meta_uid": 10000028,
+      "created_at": "2024-10-05 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000015,
+      "parent_id": 2000013,
+      "level": 3,
+      "email": "baihehua0214@gmail.com",
+      "phone": "0100000",
+      "meta_uid": 10000092,
+      "created_at": "2024-10-05 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000016,
+      "parent_id": 2000013,
+      "level": 3,
+      "email": "sonjoneun@gmail.com",
+      "phone": "01020009838",
+      "meta_uid": 0,
+      "created_at": "2024-10-05 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000017,
+      "parent_id": 2000014,
+      "level": 4,
+      "email": "ezmatch@hanmail.net",
+      "phone": "01030907070",
+      "meta_uid": 0,
+      "created_at": "2024-10-05 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000018,
+      "parent_id": 2000016,
+      "level": 4,
+      "email": "m46119446@gmail.com",
+      "phone": "01046119446",
+      "meta_uid": 0,
+      "created_at": "2024-10-05 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000019,
+      "parent_id": 2000018,
+      "level": 5,
+      "email": "test6@gmail.com",
+      "phone": "01041180361",
+      "meta_uid": 0,
+      "created_at": "2024-10-05 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000020,
+      "parent_id": 2000013,
+      "level": 3,
+      "email": "abs0401@hanmail.net",
+      "phone": "01071149722",
+      "meta_uid": 0,
+      "created_at": "2024-10-06 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000021,
+      "parent_id": 2000012,
+      "level": 2,
+      "email": "ubkorea21@naver.com",
+      "phone": "01075137749",
+      "meta_uid": 0,
+      "created_at": "2024-10-07 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000022,
+      "parent_id": 2000015,
+      "level": 4,
+      "email": "bongok326@gmail.com",
+      "phone": "01038814295",
+      "meta_uid": 10004418,
+      "created_at": "2024-10-07 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000023,
+      "parent_id": 2000022,
+      "level": 5,
+      "email": "test_msjh72982@gmail.com",
+      "phone": "01075336444",
+      "meta_uid": 0,
+      "created_at": "2024-10-10 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000024,
+      "parent_id": 2000022,
+      "level": 5,
+      "email": "byun73537@gmail.com",
+      "phone": "01048642414",
+      "meta_uid": 10004537,
+      "created_at": "2024-10-10 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000025,
+      "parent_id": 2000024,
+      "level": 6,
+      "email": "msjh72982@gmail.com",
+      "phone": "01075336444",
+      "meta_uid": 0,
+      "created_at": "2024-10-10 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000026,
+      "parent_id": 2000013,
+      "level": 3,
+      "email": "skjt55@gmail.com",
+      "phone": "+819043756102",
+      "meta_uid": 0,
+      "created_at": "2024-10-10 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000027,
+      "parent_id": 2000024,
+      "level": 6,
+      "email": "Ola.eos@gmail.com",
+      "phone": "010 8336 8180",
+      "meta_uid": 10004538,
+      "created_at": "2024-10-11 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000028,
+      "parent_id": 2000013,
+      "level": 3,
+      "email": "jiyunch09@gmail.com",
+      "phone": "01084353580",
+      "meta_uid": 0,
+      "created_at": "2024-10-12 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000029,
+      "parent_id": 2000028,
+      "level": 4,
+      "email": "josephmoonmc@gmail.com",
+      "phone": "010-9534-1913",
+      "meta_uid": 10000751,
+      "created_at": "2024-10-12 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000030,
+      "parent_id": 2000029,
+      "level": 5,
+      "email": "corbanlucasnistal@gmail.com",
+      "phone": "+63-9556998944",
+      "meta_uid": 0,
+      "created_at": "2024-10-12 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000031,
+      "parent_id": 2000013,
+      "level": 3,
+      "email": "j47671720@gmail.com",
+      "phone": "01047671720",
+      "meta_uid": 0,
+      "created_at": "2024-10-15 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000032,
+      "parent_id": 2000027,
+      "level": 7,
+      "email": "donglee54@naver.com",
+      "phone": "82-10-5954-0448",
+      "meta_uid": 0,
+      "created_at": "2024-10-22 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000033,
+      "parent_id": 2000022,
+      "level": 5,
+      "email": "test01_bongok326@gmail.com",
+      "phone": "01038814295",
+      "meta_uid": 0,
+      "created_at": "2024-10-24 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000034,
+      "parent_id": 2000033,
+      "level": 6,
+      "email": "test_bongok326@gmail.com",
+      "phone": "01038814295",
+      "meta_uid": 0,
+      "created_at": "2024-10-24 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000035,
+      "parent_id": 2000027,
+      "level": 7,
+      "email": "vascojjp@naver.com",
+      "phone": "01053040772",
+      "meta_uid": 0,
+      "created_at": "2024-10-27 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000036,
+      "parent_id": 2000014,
+      "level": 4,
+      "email": "leesm0927@naver.com",
+      "phone": "01046903889",
+      "meta_uid": 10004519,
+      "created_at": "2024-10-29 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000037,
+      "parent_id": 2000036,
+      "level": 5,
+      "email": "test2@gmail.com",
+      "phone": "010",
+      "meta_uid": 10000028,
+      "created_at": "2024-10-29 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000038,
+      "parent_id": 2000037,
+      "level": 6,
+      "email": "test1@gmail.com",
+      "phone": "010-5126-2452",
+      "meta_uid": 0,
+      "created_at": "2024-10-29 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000039,
+      "parent_id": 2000038,
+      "level": 7,
+      "email": "js100506@naver.com",
+      "phone": "01084746443",
+      "meta_uid": 0,
+      "created_at": "2024-10-29 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000040,
+      "parent_id": 2000027,
+      "level": 7,
+      "email": "phobianist@naver.com",
+      "phone": "01044740772",
+      "meta_uid": 0,
+      "created_at": "2024-10-29 00:00:00",
+      "part_usdt": 4000
+     },
+     {
+      "user_id": 2000041,
+      "parent_id": 2000039,
+      "level": 8,
+      "email": "ynasunog@gmail.com",
+      "phone": "01090810129",
+      "meta_uid": 0,
+      "created_at": "2024-10-29 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000042,
+      "parent_id": 2000036,
+      "level": 5,
+      "email": "ksy67881@naver.com",
+      "phone": "010 8628 6788",
+      "meta_uid": 10004555,
+      "created_at": "2024-10-30 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000043,
+      "parent_id": 2000037,
+      "level": 6,
+      "email": "test3@gmail.com",
+      "phone": "010",
+      "meta_uid": 10000028,
+      "created_at": "2024-10-31 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000044,
+      "parent_id": 2000027,
+      "level": 7,
+      "email": "pih34603195@gmail.com",
+      "phone": "01034603195",
+      "meta_uid": 0,
+      "created_at": "2024-11-04 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000045,
+      "parent_id": 2000042,
+      "level": 6,
+      "email": "jjanghayo@naver.com",
+      "phone": "01023153555",
+      "meta_uid": 0,
+      "created_at": "2024-11-07 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000046,
+      "parent_id": 2000045,
+      "level": 7,
+      "email": "kus77566510@gmail.com",
+      "phone": "01077566510",
+      "meta_uid": 0,
+      "created_at": "2024-11-07 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000047,
+      "parent_id": 2000042,
+      "level": 6,
+      "email": "bible4466@gmail.com",
+      "phone": "01066502466",
+      "meta_uid": 0,
+      "created_at": "2024-11-11 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000048,
+      "parent_id": 2000037,
+      "level": 6,
+      "email": "test_jeongja56013@gmail.com",
+      "phone": "01065480039",
+      "meta_uid": 10001037,
+      "created_at": "2024-11-20 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000049,
+      "parent_id": 2000046,
+      "level": 8,
+      "email": "nakim7@naver.com",
+      "phone": "01099960099",
+      "meta_uid": 0,
+      "created_at": "2024-11-23 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000050,
+      "parent_id": 2000049,
+      "level": 9,
+      "email": "lss7788@gmail.com",
+      "phone": "01083667788",
+      "meta_uid": 0,
+      "created_at": "2024-11-24 00:00:00",
+      "part_usdt": 0
+     },
+     {
+      "user_id": 2000051,
+      "parent_id": 2000022,
+      "level": 5,
+      "email": "heamiann@naver.com",
+      "phone": "01080714589",
+      "meta_uid": 10004571,
+      "created_at": "2024-11-25 00:00:00",
+      "part_usdt": 2000
+     },
+     {
+      "user_id": 2000052,
+      "parent_id": 2000051,
+      "level": 6,
+      "email": "sk01050179324@gmail.com",
+      "phone": "01050179324",
+      "meta_uid": 10004574,
+      "created_at": "2024-11-25 00:00:00",
+      "part_usdt": 2000
+    },
+    {
+      "user_id": 2000053,
+      "parent_id": 2000052,
+      "level": 7,
+      "email": "pju3465@naver.com",
+      "phone": "01036190634",
+      "meta_uid": 0,
+      "created_at": "2024-11-25 00:00:00",
+      "part_usdt": 2000
+    },
+    {
+      "user_id": 2000054,
+      "parent_id": 2000022,
+      "level": 5,
+      "email": "cvd1286@naver.com",
+      "phone": "01091624916",
+      "meta_uid": 0,
+      "created_at": "2024-11-28 00:00:00",
+      "part_usdt": 2000
+    },
+    {
+      "user_id": 2000055,
+      "parent_id": 2000024,
+      "level": 6,
+      "phone": "1030100873",
+      "email": "pmam1027@gmail.com",
+      "meta_uid": 0,
+      "created_at": "2024-12-05 00:00:00",
+      "part_usdt": 2000
+    },
+    {
+      "user_id": 2000056,
+      "parent_id": 2000021,
+      "level": 3,
+      "phone": "1053803753",
+      "email": "",
+      "meta_uid": 0,
+      "created_at": "2024-12-09 00:00:00",
+      "part_usdt": 2000
+    },
+    {
+      "user_id": 2000057,
+      "parent_id": 2000021,
+      "level": 3,
+      "phone": "1053803753",
+      "email": "",
+      "meta_uid": 0,
+      "created_at": "2024-12-09 00:00:00",
+      "part_usdt": 2000
+    },
+    {
+      "user_id": 2000058,
+      "parent_id": 2000021,
+      "level": 3,
+      "phone": "1053803753",
+      "email": "",
+      "meta_uid": 0,
+      "created_at": "2024-12-09 00:00:00",
+      "part_usdt": 2000
+    },
+    {
+      "user_id": 2000059,
+      "parent_id": 2000037,
+      "level": 3,
+      "phone": "1087025296",
+      "email": "",
+      "meta_uid": 10004587,
+      "created_at": "2024-12-09 00:00:00",
+      "part_usdt": 2000
+    }
+]
