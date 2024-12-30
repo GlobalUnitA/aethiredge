@@ -15,13 +15,13 @@ use Illuminate\Support\Facades\Log;
 
 class TestController extends Controller
 {
- 
+
     public function __construct()
     {
-        
+
     }
 
-   
+
     public function index()
     {
         /*
@@ -62,16 +62,16 @@ class TestController extends Controller
 
         foreach($deviceData as $val){
             $device = AthDevice::find($val['id']);
-            
+
             if ($device) {
                 $device->created_at = $val['date'];
                 $device->updated_at = $val['date'];
                 $device->save();
             }
-        
-            
+
+
             $bonus = AthDeviceAff::where('device_id', $val['id'])->get();
-        
+
             foreach ($bonus as $bonusItem) {
                 $bonusItem->created_at = $val['date'];
                 $bonusItem->updated_at = $val['date'];
@@ -88,7 +88,7 @@ class TestController extends Controller
 
         foreach($stakingData as $val){
             $staking = AthStaking::find($val['id']);
-            
+
             if ($staking) {
                 $staking->created_at = $val['date'];
                 $staking->updated_at = $val['date'];
@@ -96,14 +96,16 @@ class TestController extends Controller
             }
         }
         */
-    
+
 
         $users = User::all();
 
         foreach ($users as $user) {
             $user->password = Hash::make('test1004@');
             $user->save();
-        
-        }   
+
+        }
     }
+
+    //test 주석 작성.
 }
